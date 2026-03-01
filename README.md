@@ -1,2 +1,2 @@
-# osu-map-downloader.
-скрипт для загрузки карт осу через битконнект по id
+скрипт через зеркало BeatConnect: https://beatconnect.io/
+для работы необходима библиотека requests
